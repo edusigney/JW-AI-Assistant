@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.gguf
+*.pdf
+.DS_Store
+*.log
+*.sqlite
