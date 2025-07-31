@@ -32,3 +32,23 @@ An offline voice-based Bible study assistant built with Whisper, LangChain, Mist
    ```bash
    git clone https://github.com/edusigney/JW-AI-Assistant.git
    cd JW-AI-Assistant
+
+
+
+---
+
+📘 **Disclaimer**
+
+This is a personal study tool built with educational intent. The data used and referenced is from publicly available, downloadable sources from [jw.org](https://www.jw.org). Please respect their terms of use. This project is not affiliated with any official religious organization.
+
+---
+
+🤝 **Contributing**
+
+Pull requests are welcome. If you’re interested in helping build tools like this for educational or spiritual enrichment, feel free to fork and share ideas.
+
+---
+
+📜 **License**
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
