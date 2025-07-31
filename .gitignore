@@ -6,4 +6,6 @@ __pycache__/
 *.pdf
 .DS_Store
 *.log
-*.sqlite
+*.sqlite3
+bible_vectorstore/
+data/
